@@ -97,4 +97,4 @@ Calling 'create_show_and_tell' tool...
 
 ## 📖 Additional Documentation
 
-For a detailed breakdown of the use case, architecture diagram, and technical implementation choices, check out (more_info.md)
+For a detailed breakdown of the use case, architecture diagram, and technical implementation choices, check out [More Info](more_info.md)
